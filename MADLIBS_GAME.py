@@ -1,0 +1,21 @@
+print("+**********************+")
+print("WELCOME TO MADLIBS GAME")
+print("FILL THE BLANK")
+print("")
+
+print("TODAY I WENT TO _______")
+print("I SAW A LOIN,AND DO YOU KNOW IT'S CALLED AS ______")
+print("IT WAS LUNCH TIME FOR LION,AND IT WAS _____ RAW MEAT HAPPLY")
+print("LIONS ARE ALSO CALLED AS _____ OF JUNGLE")
+print("")
+
+adjective1 = input("ENTER A ADJECTIVE1 WORD(DESCRIPTION):")
+noun =  input("ENTER THE NOUN(NAME,PLACE,THING):")
+verb = input("ENTER A VERB(ACTION):")
+adjective2 = input("ENTER A ADJECTIVE2 WORD(DESCRIPTION):")
+
+print("")
+print(f"TODAY I WENT TO {adjective1}")
+print(f"I SAW A LOIN,AND DO YOU KNOW IT'S CALLED AS {noun}")
+print(f"IT WAS LUNCH TIME FOR LION,AND IT WAS {verb} RAW MEAT HAPPLY")
+print(f"LIONS ARE ALSO CALLED AS {adjective1} OF JUNGLE")
